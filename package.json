@@ -12,6 +12,6 @@
   ],
   "dependencies": {
     "jsx-loader": "~0.10.2",
-    "jshint-loader": "~0.6.0"
+    "jshint-loader": "~0.8.0"
   }
 }
